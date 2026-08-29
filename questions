@@ -1,0 +1,181 @@
+C PROGRAMMING QUESTIONS – TOPIC WISE
+
+BASIC C PROGRAMMING, OPERATORS & CONDITIONS
+
+1. Find the largest among two numbers.
+2. Find the largest among three numbers.
+3. Find the largest among two numbers using the ternary operator.
+4. Swap two numbers using a temporary variable.
+5. Swap two numbers without using a temporary variable.
+6. Implement simple interest with principal amount of 1 lakh for 3 years with 10% interest.
+7. Check whether a year is a leap year or not.
+8. Check the eligibility of marriage based on user input.
+9. Compare two numbers and print the output of bitwise AND, OR, NOT, exact, left shift and right shift operations.
+10. Compare two numbers and print the output of the given operations.
+11. Write statement-based questions covering operations, typecasting, type modifiers (4 types), storage classes, array declaration and function declaration.
+12. Check whether a letter is a vowel or not, a number is even or odd, a number is prime or composite, find the largest among 3 numbers and find the smallest among 3 numbers.
+
+
+LOOPS, SERIES & MATHEMATICAL OPERATIONS
+
+13. Print the list of numbers from 21 to 60 which are divisible by 3 and 5.
+14. Print the multiplication table of 8.
+15. Find the list of numbers which are divisible by 3 from the decade of a number.
+16. Print numbers from 60 to 20 in decreasing order.
+17. Find the sum of numbers which are divisible by 5 from 1 to 100.
+18. Print the even numbers from 21 to 40 using a while loop.
+19. Find the sum of odd numbers from 10 to 30.
+20. Find the product of odd numbers from 1 to 10 using a while loop.
+21. Print the numbers which are divisible by 3 and 5 from 1 to 50 using any loop.
+22. Find the sum of numbers which are divisible by 4 and 5 from 1 to 100.
+23. Find the product of numbers which are divisible by 3 and 5 as well as even numbers.
+24. Find the sum of numbers from 21 to 40 except 33 and 37.
+25. Find the product of numbers from 1 to 10 except odd numbers using the continue statement.
+26. Print the list of numbers from 1 to 30 except numbers divisible by 4 and stop when reaching 27.
+27. Print the list of numbers from 1 to 100 which have unit digit 0.
+
+
+STRINGS & CHARACTER HANDLING
+
+28. Count the total number of letters from a string without using the strlen function.
+29. Count the total number of vowels and consonants from your name.
+30. Print your name without vowels.
+31. Get two inputs from the user, name and letter, and check whether the letter is available in the name or not.
+32. Print the list of all vowels from your name.
+33. Count the occurrence of each vowel from your name.
+34. Check the name and compare which letter occurs more.
+35. Count the total number of letters from a string without using the string length function.
+36. Find the length of a string using recursion.
+37. Print your name in reverse order using recursion.
+38. Print the vowels from your name using recursion.
+39. Print your name in vertical order using a goto statement.
+40. Print your name in vertical order using a pointer.
+41. Print your name in reverse order using a pointer.
+42. Print the vowels from your name using a pointer.
+43. Delete the vowels from a string array.
+44. Remove the letter 'a' from your name.
+
+
+NUMBER & DIGIT PROGRAMS
+
+45. Find the sum of the even digits of a number.
+46. Find the product of the odd digits of a number.
+47. Find the total number of digits.
+48. Print only the odd digits from a number.
+49. Find the difference between the sum of even digits and the sum of odd digits of a number.
+50. Find the largest digit and smallest digit of a number.
+51. Reverse a number.
+52. Find the total number of even digits and odd digits of a number.
+53. Check whether a number is a palindrome or not.
+54. Check whether a number is an Armstrong number or not.
+55. Find the sum of the first and last digit of a number.
+56. Swap the first and last digit of a number.
+
+
+FUNCTIONS
+
+57. Print the list of prime numbers from 1 to 20 using a function.
+58. Find the sum of even numbers from 21 to 40 using a function.
+59. Check whether a number is prime or not using a function.
+60. Find the sum of even digits of a number using a function.
+61. Print the pattern 'F' using a function.
+62. Check whether a number is a palindrome or not using a function.
+63. Find the sum of array elements using a function.
+
+
+RECURSION
+
+64. Find the sum of all digits of a number using recursion.
+65. Print the numbers from 40 to 60 using recursion.
+66. Print the numbers from 100 to 1 except even numbers using recursion.
+67. Print the list of prime numbers between 21 to 60 using recursion.
+68. Print your name in reverse order using recursion.
+69. Print the vowels from your name using recursion.
+70. Find the total number of letters from your name using recursion.
+71. Find the product of numbers from 1 to 10 using recursion.
+72. Print the second multiplication table using recursion.
+73. Print numbers from 1 to 10 using recursion and 10 to 1 in reverse order.
+74. Find the sum of numbers from 21 to 40 and the sum of even numbers from 36 to 56 using recursion.
+75. Check whether a number is prime or not using recursion.
+
+
+ARRAYS – BASIC OPERATIONS
+
+76. Find the largest element from an array.
+77. Find the smallest element from an array.
+78. Find the sum of prime elements of an array.
+79. Find the average of the elements from an array.
+80. Find the larger amount between the average of even and average of odd elements from an array.
+81. Print the list of names which start with a vowel from an array.
+82. Print the total count of each and every name from an array.
+83. Print the name which is largest from an array.
+84. Print the name which starts and ends with vowels from an array.
+85. Replace the existing element with a new element using linear search.
+86. Swap the first and last element of an array.
+87. Print the list of elements from an array within a specific range.
+88. Print the list of elements which are not within a specific range from an array.
+89. Replace the even elements of an array by zero.
+90. Find the sum of elements in an array except the smallest and largest.
+91. Check whether the array is sorted or not.
+92. Arrange the array in ascending and descending order.
+93. Print the list of even numbers in ascending order.
+94. Print the list of odd elements in descending order.
+95. From the array elements, print even numbers in ascending order and odd numbers in descending order.
+96. Check whether the elements are already sorted or not.
+97. Arrange the elements in ascending and descending order.
+98. Find the total number of elements in an array.
+
+
+ARRAYS – INSERT, DELETE, SEARCH & SORTING
+
+99. Delete the even elements from an array.
+100. Insert a new element at a specific index value.
+101. Check whether the element is already deleted or not using binary search.
+102. Insert a new element in a sorted array.
+103. Insert a new element in an array such that the sum of array elements is 150.
+104. Print the list of array elements for which the reverse of the digit is odd.
+105. Find the average of even elements from an array.
+106. Print the list of elements which are prime numbers in an array.
+107. Insert a new element at a specific index of an array.
+108. Delete a specific element from an array.
+109. Sort the elements using bubble sort.
+110. Find the target element using binary search.
+
+
+POINTERS
+
+111. Find the sum of array elements using a pointer.
+112. Print your name in vertical order using a pointer.
+113. Count the total number of elements using a pointer.
+114. Print your name in reverse order using a pointer.
+115. Print the vowels from your name using a pointer.
+116. Modify the value of a variable from a function using a pointer.
+117. Store a list of elements using user input with a pointer.
+118. Find the total number of elements from a pointer array without using the sizeof function.
+119. Print the list of bubbles from a string using a pointer array.
+120. Sort the elements using an array pointer.
+121. Check whether a specific element is present or not from an array pointer.
+122. Check whether the elements are already sorted or not using an array pointer.
+123. Reverse an array using a pointer.
+
+
+PATTERN PRINTING & GOTO
+
+124. Print the pattern 'F' using a function.
+125. Print your name in vertical order using a goto statement.
+126. Print A to Z using pattern printing.
+
+
+STRUCTURES / REAL-WORLD DATA
+
+127. From the list of employees containing name, age, salary and ID, print the employee names who have more than 1 lakh salary.
+128. From the list of student mark details, print the total, average and status of the result for each student.
+129. From the list of account holders containing name, mobile number, account number and balance, count the account holders who have negative balance and less than minimum balance.
+130. From the list of student details, count the total number of students whose names start and end with vowels.
+131. Print the list of student details whose age is greater than 18 and marks are greater than 90.
+132. From the list of student mark details, print the student details who have not failed in any subject.
+133. From the list of employee details, print all names in ascending order.
+134. From the list of students, print the students whose mobile number and roll number start with an even number.
+135. Print the list of student details having marks more than 90 and grade A or O.
+136. Print the list of employee names whose name starts with vowels, employee ID starts with an even number and salary starts with 1 lakh.
+137. From the list of different student sections, print the NK student names.
